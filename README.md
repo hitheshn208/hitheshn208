@@ -1,5 +1,5 @@
 ##  Hi, I'm Hithesh N
-🎓 I'm a **Computer Science & Engineering** student at **Ramaiah Institute of Technology**, passionate about building tools that make learning and problem-solving intuitive and engaging.
+🎓 I'm a **Computer Science & Engineering** student at **Ramaiah Institute of Technology**, passionate about building tools that make learning and problem-solving intuitive and engaging.<br>
 🧠 Learning & building – updating this space as I go!
 
 ## 🌐 Socials:
