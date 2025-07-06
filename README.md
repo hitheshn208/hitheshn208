@@ -16,7 +16,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-[![Hithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitheshn208)](https://github.com/hitheshn208/github-readme-stats)
+[![Hithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitheshn208)]<img src="https://github.com/hitheshn208/github-readme-stats"/>
 </p>
 
 ---
