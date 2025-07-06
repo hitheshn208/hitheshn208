@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
   <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208)](https://github.com/hitheshn208/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208&layout=donut)](https://github.com/hitheshn208/github-readme-stats)
 </p>
 
