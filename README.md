@@ -5,6 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n-hithesh-kumar-573909341) 
 
+## Git stats:
 <a href="https://github.com/hitheshn208/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitheshn208&show_icons=true&theme=radical"/>
 <br><br><br>
