@@ -16,7 +16,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208&layout=donut" />
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208)](https://github.com/hitheshn208/github-readme-stats)
   ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
