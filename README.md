@@ -16,7 +16,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
- <img scr="[https://github-readme-stats.vercel.app/api?username=hitheshn208](https://github.com/hitheshn208/github-readme-stats)"/>
+ <img scr="https://github.com/hitheshn208/github-readme-stats"/>
 </p>
 
 ---
