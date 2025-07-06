@@ -8,9 +8,9 @@
 <a href="https://github.com/hitheshn208/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hitheshn208" />
 </a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
+<br><br><br>
+<a href="https://github.com/hitheshn208/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208&layout=donut"/>
 </a>
 
 ## 🔗 Connect With Me
