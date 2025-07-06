@@ -5,21 +5,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n-hithesh-kumar-573909341) 
 
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c++,python,html,css,js,fastapi,git,github,vscode,java" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-[![Hithesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitheshn208)]<img src="https://github.com/hitheshn208/github-readme-stats"/>
-</p>
-
----
+<a href="https://github.com/hitheshn208/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hitheshn208" />
+</a>
 
 ## 🔗 Connect With Me
 
