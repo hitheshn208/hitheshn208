@@ -5,10 +5,10 @@
 ## 📬 Connect with me
 
 <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-  <img src="assets/icons social/Linkedin.gif" alt="LinkedIn" width="50"/>
+  <img src="assets/icons_social/linkedin.gif" alt="LinkedIn" width="50"/>
 </a>
 <a href="mailto:yourmail@gmail.com">
-  <img src="assets/icons social/Gmail.gif" alt="Gmail" width="50"/>
+  <img src="assets/icons_social/gmail.gif" alt="Gmail" width="50"/>
 </a>
 
 
