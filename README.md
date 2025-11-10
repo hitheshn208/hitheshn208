@@ -4,10 +4,10 @@
 
 ## 📬 Connect with me
 
-<a href="https://www.linkedin.com/in/yourusername" target="_blank">
-  <img src="assets/icons_social/linkedin.gif" alt="LinkedIn" width="50"/>
+<a href="http://www.linkedin.com/in/n-hithesh-kumar-573909341" target="_blank">
+  <img src="https://raw.githubusercontent.com/hitheshn208/hitheshn208/refs/heads/main/assets/icons_social/linkedIn.gif" alt="LinkedIn" width="50"/>
 </a>
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:hitheshn2006@gmail.com" target="_blank">
   <img src="assets/icons_social/gmail.gif" alt="Gmail" width="50"/>
 </a>
 
