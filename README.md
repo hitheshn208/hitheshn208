@@ -3,7 +3,15 @@
 🧠 Learning & building – updating this space as I go!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-hithesh-kumar-573909341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+## 📬 Connect with me
+
+<a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <img src="assets/icons social/Linkedin.gif" alt="LinkedIn" width="50"/>
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="assets/icons social/Gmail.gif" alt="Gmail" width="50"/>
+</a>
+
 
 ## 💻 Tech Stack:
 
