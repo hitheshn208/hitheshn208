@@ -30,6 +30,7 @@
 
 
 ## 📊 GitHub Stats:
+<div align="center">
 <a href="https://github.com/hitheshn208/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitheshn208&show_icons=true&bg_color=00000000&icon_color=FFA726&title_color=66BB6A&text_color=FFFFFF&border_radius=5&rank_icon=github"/>
 <br><br><br>
@@ -38,9 +39,6 @@
 </a>
   <br><br><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=hitheshn208&theme=dark&hide_border=false"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=hitheshn208&icon=1&color=7)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
