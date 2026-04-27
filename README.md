@@ -43,7 +43,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208&layout=donut&bg_color=00000000&text_color=FFFFFF&border_radius=5&title_color=66BB6A"/>
 </a>
   <br><br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hitheshn208&theme=dark&hide_border=false"/>
+  <img src="https://streak-stats.demolab.com/?user=hitheshn208&theme=dark&hide_border=false"/>
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
