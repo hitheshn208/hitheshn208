@@ -1,6 +1,4 @@
-##  Hi, I'm N Hithesh Kumar
-🎓 I'm a **Computer Science & Engineering** student at **Ramaiah Institute of Technology**, passionate about building tools that make learning and problem-solving intuitive and engaging.<br><br>
-🧠 Learning & building – updating this space as I go!
+<img src="./assets/about-section.svg" alt="Banner" width="100%">
 
 ## 📬 Connect with me
 
