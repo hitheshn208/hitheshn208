@@ -40,16 +40,21 @@
 
 
 ## 📊 GitHub Stats:
-<div align="center">
-<a href="https://github.com/hitheshn208/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hitheshn208&show_icons=true&bg_color=00000000&icon_color=FFA726&title_color=66BB6A&text_color=FFFFFF&border_radius=5&rank_icon=github"/>
-<br><br><br>
-<a href="https://github.com/hitheshn208/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitheshn208&layout=donut&bg_color=00000000&text_color=FFFFFF&border_radius=5&title_color=66BB6A"/>
-</a>
-  <br><br><br>
-  <img src="https://streak-stats.demolab.com/?user=hitheshn208&theme=dark&hide_border=false"/>
-</div>
+<table>
+  <tr>
+    <td rowspan="2" width="50%">
+       <img src="https://ghstats.dev/api/card?username=hitheshn208&theme=default&hide_border=true" alt="" height="150%">
+    </td>
+    <td>
+      <img src="https://ghstats.dev/api/langs?username=hitheshn208&theme=default&hide_border=true&layout=horizontal_list" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://ghstats.dev/api/sparkline?username=hitheshn208&theme=default&days=90&width=400&height=100&hide_border=true" alt="Contribution Sparkline" width="100%"/>
+    </td>
+  </tr>
+</table>
 <img src="https://monitor.h208.me/githubpc/increment" alt="">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
