@@ -10,32 +10,17 @@
 </a>
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
-<div >
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webpack.png" alt="webpack" title="webpack"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/leaflet.png" alt="Leaflet" title="Leaflet"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png" alt="FastAPI" title="FastAPI"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="redis" title="redis"/></code>
-</div>
+| Category | Technologies |
+|----------|--------------|
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=code&size=16&animation=glow&color=%233b82f6" alt="code" /> <img width="3" /> Languages** | <img src="https://skillicons.dev/icons?i=c" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=cpp" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=java" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=py" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=js" height="32" /> |
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=palette&size=16&animation=glow&color=%233b82f6" alt="palette" /> <img width="3" /> Frontend** | <img src="https://skillicons.dev/icons?i=html" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=css" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=react" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=tailwind" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=vite" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=webpack" height="32" /> |
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=cog&size=16&animation=glow&color=%233b82f6" alt="cog" /> <img width="3" /> Backend** | <img src="https://skillicons.dev/icons?i=nodejs" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=express" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=fastapi" height="32" /> |
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=database&size=16&animation=glow&color=%233b82f6" alt="database" /> <img width="3" /> Databases** | <img src="https://skillicons.dev/icons?i=postgres" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=mongodb" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=redis" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=supabase" height="32" /> |
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=rocket&size=16&animation=glow&color=%233b82f6" alt="rocket" /> <img width="3" /> Deployment** | <img src="https://skillicons.dev/icons?i=vercel" height="32" /> |
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=cloud&size=16&animation=glow&color=%233b82f6" alt="cloud" /> <img width="3" /> DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker" height="32" /><img width="10" /><img src="https://cdn.simpleicons.org/nginx/009639" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=linux" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=azure" height="32" /> |
+| **<img src="https://www.readmecodegen.com/api/social-icon?name=laptop&size=16&animation=glow&color=%233b82f6" alt="laptop" /> <img width="3" /> Tools** | <img src="https://skillicons.dev/icons?i=git" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=postman" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=bash" height="32" /><img width="10" /><img src="https://skillicons.dev/icons?i=vscode" height="32" /> |
 
 
 
